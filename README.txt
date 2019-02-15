@@ -1,0 +1,5 @@
+This project uses the (what I believe is) the first generation ME-ARM. I paid ~$10 bucks for it on a bang good sale.  I also used the tower hobby clone 9g plastic servos.....( ~$1.5 pack of 10) First I made it with 4 pots, but that was madening for me to control. I changed it up to use the 2 joysticks ($3.00 ebay)  and that was better for me. I do not play video games (old fart me) but my grandkids picked this up very quickly. 
+I used an arduino prototype-shield to route all the power and data for the 4 servo and 2 joystick. I am using a dual 12V and 5v  common ground power supply. 5Vdc is applied to the  joysticks and servos on the proto board distribution. The arduino is powered through inserting 12Vdc to the barrel connector. During programming I disconnect the 12 VCD ( not necessarily necessary ) and let the USB power the arduino. 
+My notes cover how I calibrated the SNARM. The servos must be in a certian position before you mount them .  I also had to put some limits on how far the servos go to keep them from binding. 
+
+Have some fun. 
